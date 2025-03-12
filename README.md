@@ -1,16 +1,37 @@
-# tugaspertama
+# 🏆 TugasPertamaNusacodes
+Halaman login yang dibuat menggunakan **Flutter** dengan desain modern dan responsif.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 Fitur
+✅ Login dengan validasi email dan password  
+✅ Desain responsif dan modern  
+✅ Tombol login dengan efek bayangan dan animasi  
+✅ Navigasi untuk pendaftaran akun baru  
+✅ Menampilkan notifikasi saat login berhasil  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/c32a7bfd-1a51-4716-8ee5-f3a64cabc777)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Teknologi yang Digunakan
+- **Flutter** (v3.x.x)  
+- **Dart** (v3.x.x)  
+- **Material Design** untuk UI  
+
+---
+
+
+---
+
+## 📥 Instalasi
+1. **Clone repository ini**  
+```bash
+git clone https://github.com/GilbertusKristo/TugasPertamaNusacodes.git
+cd TugasPertamaNusacodes
+flutter pub get
+flutter run
+
